@@ -1,3 +1,5 @@
+#Some code from https://github.com/nhirakawa/BM25/tree/master/src
+
 import pandas as pd
 import math
 import operator
